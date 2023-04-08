@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi!👋 I'm Millen Mark</h1>
+<h1 align="center">Hi! I'm Millen Mark👋</h1>
 <h3 align="center">A passionate front-end developer from Philippines</h3>
 
 ###
