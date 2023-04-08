@@ -33,13 +33,19 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  - 🔭 I’m searching for work as a Jr. Front-end Developer<br>
+  - 📚 I'm currently learning Python<br>
+  - ⚡ In my free time I code<br>
+  - 👨‍💻 All my projects are available at my <a href="https://millenmark.github.io/portfolio/">Portfolio</a><br>
+  - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1QzqVc4CGAYwiGYOZL1EdVlVLeCTvauHf/view?usp=sharing">Millen Mark's Resume<a/><br>
+</p>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
