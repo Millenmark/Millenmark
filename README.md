@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="aquino.millenmark@gmail.com" target="_blank">
+  <a href="mailto:aquino.millenmark@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=282a36&logoColor=D14836&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/aquino.millenmark" target="_blank">
