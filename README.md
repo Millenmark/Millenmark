@@ -35,7 +35,7 @@
 
 <p align="left">
   - 🔭 I’m searching for work as a Jr. Front-end Developer<br>
-  - 📚 I'm currently learning Python<br>
+  - 📚 I'm currently learning NodeJS, Express and MongoDB<br>
   - ⚡ In my free time I code<br>
   - 👨‍💻 All my projects are available at my <a href="https://millenmark.github.io/portfolio/">Portfolio</a><br>
   - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1QzqVc4CGAYwiGYOZL1EdVlVLeCTvauHf/view?usp=sharing">Millen Mark's Resume<a/><br>
