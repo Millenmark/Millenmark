@@ -51,6 +51,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,html,css,js,figma,materialui,nodejs,react,express,php,laravel,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,aws,html,css,js,figma,materialui,tailwind,nodejs,react,express,php,laravel,mysql,mongodb" />
   </a>
 </p>
