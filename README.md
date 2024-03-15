@@ -35,7 +35,7 @@
 ###
 
 <p align="left">
-  - 🔭 My dream is to be a Software Engineer<br>
+  - 🔭 My dream is to become a Software Engineer<br>
   - 📚 I'm continuously learning about different technologies<br>
   - ⚡ In my free time I read books (non-fiction)<br>
   - 👨‍💻 All my projects are available at my <a href="https://millenmark.github.io/portfolio/">Portfolio</a><br>
