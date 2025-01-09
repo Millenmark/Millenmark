@@ -38,7 +38,7 @@
   - 🔭 My dream is to become a Software Engineer<br>
   - 📚 I'm continuously learning about different technologies<br>
   - ⚡ In my free time I read books (non-fiction)<br>
-  - 👨‍💻 All my projects are available at my <a href="https://millenmark.github.io/portfolio/](https://millenmark-project-gallery.netlify.app/">Project Gallery</a><br>
+  - 👨‍💻 All my projects are available at my <a href="https://millenmark-project-gallery.netlify.app/">Project Gallery</a><br>
   - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/149BnUPHjHxEMV3YjVXg38Hqr8ppmnKXn/view?usp=sharing">Millen Mark's Resume<a/><br>
 </p>
 
